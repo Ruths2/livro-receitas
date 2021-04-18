@@ -1,4 +1,4 @@
-# Strogonoff de frango simples 🐔
+# 1 - Strogonoff de frango simples 🐔
 
 ## Ingredientes:
 
