@@ -13,7 +13,7 @@
 - tempero de frango/caldo kinor a gosto
 - sal e pimenta (a gosto) 🌶️
 - 1 lata de extrato de tomate
-- 1 lata de creme de leite<a href="https://imgbb.com/"><img align= "right" height="80" src="https://i.ibb.co/gZ9h08L/82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0.gif" alt="82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0" border="0" /></a>
+- 1 lata de creme de leite<a href="https://imgbb.com/"><img align= "right" height="100" src="https://i.ibb.co/gZ9h08L/82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0.gif" alt="82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0" border="0" /></a>
 - batata palha
 
 ---
@@ -28,7 +28,7 @@
 
 <div align= "center">
    <a href="https://ibb.co/sKbGLL7">
-     <img height= "200" src="https://i.ibb.co/3p4qttK/Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021" border="0" /></a>
+     <img height= "250" src="https://i.ibb.co/3p4qttK/Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021" border="0" /></a>
 </div>
 
 ---
