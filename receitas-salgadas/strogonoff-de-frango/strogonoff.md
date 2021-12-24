@@ -27,8 +27,8 @@
 5. Pronto ✅ É só servir com a quantidade de batata palha desejada.
 
 <div align= "center">
-  <a href="https://imgbb.com/">
-    <img height="150" src="https://i.ibb.co/ZJKCHGr/06056aa44dd1825c7da8d120219c69a83ec302f725e3b3bdf816d4f2bbe4be5c-0.png" alt="06056aa44dd1825c7da8d120219c69a83ec302f725e3b3bdf816d4f2bbe4be5c-0" border="0" /></a>
+   <a href="https://ibb.co/sKbGLL7">
+     <img height= "90" src="https://i.ibb.co/3p4qttK/Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021" border="0" /></a>
 </div>
 
 ---
