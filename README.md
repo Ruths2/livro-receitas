@@ -14,7 +14,7 @@
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 </div>
 
-1. [Strogonoff de frango](https://github.com/Ruths2/livro-receitas/blob/main/receitas-salgadas/strogonoff-de-frango/strogonoff.md)🥘
+1. [Strogonoff de frango simples](https://github.com/Ruths2/livro-receitas/blob/main/receitas-salgadas/strogonoff-de-frango/strogonoff.md)🥘
 
 2. ![Massa de panqueca 🥞]
 3. ![Pão caseiro 🍞]
