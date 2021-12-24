@@ -1,7 +1,7 @@
 ## 🔵 Strogonoff de frango simples 🥘
 ![Foto do strogonoff de frango](https://i.ibb.co/px8Db3H/strogonoff-de-frango.jpg)
 
-#
+---
 
 ### 🔸Ingredientes 📝:
 
@@ -13,10 +13,10 @@
 - tempero de frango/caldo kinor a gosto
 - sal e pimenta (a gosto) 🌶️
 - 1 lata de extrato de tomate
-- 1 lata de creme de leite
-- batata palha <a href="https://imgbb.com/"><img align= "right" height="80" src="https://i.ibb.co/gZ9h08L/82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0.gif" alt="82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0" border="0" /></a>
+- 1 lata de creme de leite <a href="https://imgbb.com/"><img align= "right" height="80" src="https://i.ibb.co/gZ9h08L/82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0.gif" alt="82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0" border="0" /></a>
+- batata palha
 
-#
+---
 
 ### 🔸Modo de preparo 💬: 
 
@@ -31,5 +31,5 @@
     <img height="150" src="https://i.ibb.co/ZJKCHGr/06056aa44dd1825c7da8d120219c69a83ec302f725e3b3bdf816d4f2bbe4be5c-0.png" alt="06056aa44dd1825c7da8d120219c69a83ec302f725e3b3bdf816d4f2bbe4be5c-0" border="0" /></a>
 </div>
 
-
+---
 
