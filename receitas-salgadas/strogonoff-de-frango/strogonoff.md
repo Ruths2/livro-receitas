@@ -13,7 +13,7 @@
 - tempero de frango/caldo kinor a gosto
 - sal e pimenta (a gosto) 🌶️
 - 1 lata de extrato de tomate
-- 1 lata de creme de leite <a href="https://imgbb.com/"><img align= "right" height="80" src="https://i.ibb.co/gZ9h08L/82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0.gif" alt="82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0" border="0" /></a>
+- 1 lata de creme de leite  <a href="https://imgbb.com/"><img align= "right" height="80" src="https://i.ibb.co/gZ9h08L/82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0.gif" alt="82e5a017f85695061c89d6a24cf9be61903ec66e28ab1f1250f8e731e3d3359a-0" border="0" /></a>
 - batata palha
 
 ---
