@@ -3,24 +3,39 @@
 
 ### Ola! Seja bem vindo ao meu livro de receitas 🍩
 
+---
+
+<div align= "center">
+
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
-🟤 Receitas salgadas 🤎
+🟢 Receitas salgadas 🟢
 
-1. ![Strogonoff de frango 🥘]
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+</div>
+
+1. [Strogonoff de frango](https://github.com/Ruths2/livro-receitas/blob/main/receitas-salgadas/strogonoff-de-frango/strogonoff.md)🥘
+
 2. ![Massa de panqueca 🥞]
 3. ![Pão caseiro 🍞]
 
+---
+
+<div align= "center">
+
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
-🟣 Receitas doce 💜
+🟣 Receitas doce 🟣
+
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+</div>
 
 2.  ![Pavê 🥮]
 3.  ![Gelatina cremosa🍧]
 4.  ![Capuccino caseiro ☕]
 5.  ![Pudim 🍮]
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+---
 
 
 
