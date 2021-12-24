@@ -1,4 +1,4 @@
-# 1 - Strogonoff de frango simples 🐔
+# 🟣 Strogonoff de frango simples.
 ![Foto do strogonoff de frango](https://i.ibb.co/px8Db3H/strogonoff-de-frango.jpg)
 
 ## Ingredientes:
@@ -22,4 +22,5 @@
 4. Deixe incorporar até chegar em uma consistência mais firme. 
 5. Pronto! É só servir com a quantidade de batata palha desejada.
 
-Bom apetite !! 🍽️
+<a href="https://imgbb.com/">
+  <img height="90" src="https://i.ibb.co/ZJKCHGr/06056aa44dd1825c7da8d120219c69a83ec302f725e3b3bdf816d4f2bbe4be5c-0.png")
