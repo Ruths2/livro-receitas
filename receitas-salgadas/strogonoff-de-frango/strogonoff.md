@@ -1,4 +1,5 @@
 # 1 - Strogonoff de frango simples 🐔
+![Foto do strogonoff de frango](https://i.ibb.co/px8Db3H/strogonoff-de-frango.jpg)
 
 ## Ingredientes:
 
