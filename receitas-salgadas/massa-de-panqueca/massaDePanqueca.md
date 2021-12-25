@@ -1,5 +1,6 @@
 ## 🔵 Massa de panqueca simples 🥞
-![Foto de massa de panqueca](https://i.ibb.co/xHHqshc/massa-panqueca-simples-cozinha-simples-780x470.jpg)
+<a href="https://ibb.co/ZmmzJdw">
+ <img height= "250" src="https://i.ibb.co/xHHqshc/massa-panqueca-simples-cozinha-simples-780x470.jpg" alt="massa-panqueca-simples-cozinha-simples-780x470" border="0" /></a>
 
 --- 
  <a href="https://imgbb.com/"><img align= "right" height= "180" src="https://i.ibb.co/Fn5FzDx/e0171e77c01e849e44bd7e68ec28b08e14067ea0b84085c1690747319f00d5a4-0.png" alt="e0171e77c01e849e44bd7e68ec28b08e14067ea0b84085c1690747319f00d5a4-0" border="0" /></a>
