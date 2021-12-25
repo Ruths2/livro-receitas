@@ -1,8 +1,10 @@
 ## 🔵 Pão caseiro 🍞
+![Foto do pão](https://i.ibb.co/SQHYZXL/p-o-caseiros-simples-com-fermento-seco-1200x900.jpg)
 
 ---
 
-### 🔸Ingredientes 📝: <a href="https://imgbb.com/"><img align= "right" height= "180" src="https://i.ibb.co/Ct6LH0T/49c833e1133b8cbb78c0e795309e37837c752b6e567b1c8d0a5a137bbaf91f78-0.png" alt="49c833e1133b8cbb78c0e795309e37837c752b6e567b1c8d0a5a137bbaf91f78-0" border="0" /></a>
+### 🔸Ingredientes 📝: 
+<a href="https://imgbb.com/"><img align= "right" height= "180" src="https://i.ibb.co/Ct6LH0T/49c833e1133b8cbb78c0e795309e37837c752b6e567b1c8d0a5a137bbaf91f78-0.png" alt="49c833e1133b8cbb78c0e795309e37837c752b6e567b1c8d0a5a137bbaf91f78-0" border="0" /></a>
 - 5 gramas ou 1/2 pacote de fermento biológico seco 
 - 1 ovo 🥚
 - 250 ml de leite morno 🥛
