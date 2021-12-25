@@ -1,5 +1,6 @@
 ## 🔵 Strogonoff de frango simples 🥘
-![Foto do strogonoff de frango](https://i.ibb.co/px8Db3H/strogonoff-de-frango.jpg)
+<a href="https://ibb.co/XbgBjzn">
+   <img height= "250" src="https://i.ibb.co/px8Db3H/strogonoff-de-frango.jpg" alt="strogonoff-de-frango" border="0" /></a>
 
 ---
 
