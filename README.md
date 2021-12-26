@@ -38,9 +38,8 @@
 </div>
 
 1. [Pavê simples](https://github.com/Ruths2/livro-receitas/tree/main/receitas-doce/pave-simples/paveSimples.md) 🥮 
-2. [Gelatina cremosa](https://github.com/Ruths2/livro-receitas/tree/main/receitas-doce/gelatina-cremosa/gelatinaCremosa.md) 🍧
-3. [Capuccino caseiro](https://github.com/Ruths2/livro-receitas/tree/main/receitas-doce/capuccino-caseiro/capuccinoCaseiro.md) ☕
-4. [Pudim](https://github.com/Ruths2/livro-receitas/tree/main/receitas-doce/pudim/pudim.md) 🍮
+2. [Capuccino caseiro](https://github.com/Ruths2/livro-receitas/tree/main/receitas-doce/capuccino-caseiro/capuccinoCaseiro.md) ☕
+3. [Pudim](https://github.com/Ruths2/livro-receitas/tree/main/receitas-doce/pudim/pudim.md) 🍮
 
 ---
 
