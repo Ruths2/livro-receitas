@@ -32,3 +32,8 @@
 </div>
 
 ---
+
+<div align= "center">
+
+[⬅️ Voltar para as receitas 📝](https://github.com/Ruths2/livro-receitas)
+</div>
