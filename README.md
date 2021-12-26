@@ -67,7 +67,7 @@
 
 <a href="https://imgbb.com/"><img height= "140" src="https://i.ibb.co/kyrF31b/2b1f85e17393697159f18581e283a33b620f817129946507e51d865532e822df-0.png" alt="2b1f85e17393697159f18581e283a33b620f817129946507e51d865532e822df-0" border="0" /></a>
 
-<a href='#topo'>Voltar ao topo 📃</a>•
+<a href='#topo'>Voltar ao topo 📃</a>
 </div>
 
 
