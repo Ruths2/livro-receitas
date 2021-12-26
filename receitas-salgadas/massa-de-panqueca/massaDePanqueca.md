@@ -22,6 +22,8 @@
 5. Com o auxílio de uma concha, pegue uma porção de massa e coloque na frigideira, gire a frigideira para espalhar bem a massa.
 6. Abaixe o fogo e deixe dourar por baixo, em seguida vire do outro lado e deixe dourar, repita o processo com toda a massa.Pronto ✅ utilize o recheio e o molho de sua preferência.
 
+---
+
 <div align= "center">
    <a href="https://ibb.co/sKbGLL7">
      <img height= "320" src="https://i.ibb.co/3p4qttK/Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021" border="0" /></a>
