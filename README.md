@@ -1,13 +1,20 @@
+<span id='topo'></span>
+<p>
+
 # 🥨 _Livro de receitas simples e fáceis_ 📖
 
 <div align= "center">
 <a href="https://imgbb.com/">
   <img src="https://i.ibb.co/yWT2fCr/ffd76dabd439a903784d92a11b4a4fa262c2106ed30d9befd10b924ee2059f4d-0.png" alt="ffd76dabd439a903784d92a11b4a4fa262c2106ed30d9befd10b924ee2059f4d-0" border="0" /></a>
 </div>
+</p>
 
 ## Ola! Seja bem vindo ao meu livro de receitas 🍩
 
 ---
+
+<span id='salgadas'></span>
+<p>
 
 <div align= "center">
 
@@ -17,12 +24,16 @@
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 </div>
+</p>
 
 1. [Strogonoff de frango simples](https://github.com/Ruths2/livro-receitas/blob/main/receitas-salgadas/strogonoff-de-frango/strogonoff.md) 🥘
 2. [Massa de panqueca simples](https://github.com/Ruths2/livro-receitas/tree/main/receitas-salgadas/massa-de-panqueca/massaDePanqueca.md)🥞 
 3. [Pão caseiro](https://github.com/Ruths2/livro-receitas/tree/main/receitas-salgadas/pao-caseiro/paoCaseiro.md) 🍞 
 
 ---
+
+<span id='doce'></span>
+<p>
 
 <div align= "center">
 
@@ -31,6 +42,7 @@
 🟣 Receitas doce 🟣
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+</p>
 </div>
 
 1. [Pavê simples](https://github.com/Ruths2/livro-receitas/tree/main/receitas-doce/pave-simples/paveSimples.md) 🥮 
@@ -63,10 +75,11 @@
 
 <a href="https://imgbb.com/"><img height= "140" src="https://i.ibb.co/kyrF31b/2b1f85e17393697159f18581e283a33b620f817129946507e51d865532e822df-0.png" alt="2b1f85e17393697159f18581e283a33b620f817129946507e51d865532e822df-0" border="0" /></a>
 
-Voltar ao topo da pagina 📃
+<a href='#topo'>Voltar ao topo</a>•
+<a href='#salgadas'>Receitas salgadas</a>•
+<a href='#doce'>Receitas doce</a>•
+
 </div>
-
-
 
 
 
