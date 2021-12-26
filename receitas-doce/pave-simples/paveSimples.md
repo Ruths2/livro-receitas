@@ -5,23 +5,25 @@
 ---
 
 ### 🔸Ingredientes 📝:
-- 1 pacote de bolacha maizena.
-- Leite.
+- 1 pacote de bolacha maizena. 
+- Leite. 🥛 <a href="https://imgbb.com/"><img align= "right" height= "180" src="https://i.ibb.co/cw2gQcf/b824e060f22591ff9e6acaaa53624cf9e2a1e9cfa7ec50a2d6984494ba97d821-0.png" alt="b824e060f22591ff9e6acaaa53624cf9e2a1e9cfa7ec50a2d6984494ba97d821-0" border="0" /></a>
 
 ### 🔸Ingredientes creme branco 📝:
-- 1 caixa de creme de leite.
+- 1 caixa de creme de leite. 
 - 1 caixa de leite condensado.
-- 1 ovo (somente a gema). <a href="https://imgbb.com/"><img height= "180" src="https://i.ibb.co/cw2gQcf/b824e060f22591ff9e6acaaa53624cf9e2a1e9cfa7ec50a2d6984494ba97d821-0.png" alt="b824e060f22591ff9e6acaaa53624cf9e2a1e9cfa7ec50a2d6984494ba97d821-0" border="0" /></a>
-- 200ml de leite integral.
-- 1 colher de maizena.
-- 5 gotas de essência de baunilha.
+- 1 ovo (somente a gema). 🥚
+- 200ml de leite integral. 🥛
+- 1 colher de maizena. 🥄
+- 5 gotas de essência de baunilha. 💧
+
+---
 
 ### 🔸Ingredientes creme de chocolate 📝:
 - 1 caixa de creme de leite.
-- 1 ovo (somente a gema)
-- 200ml de leite integral.
-- 8 colheres de achocolatado.
-- 1 colher de maizena.
+- 1 ovo (somente a gema) 🥚
+- 200ml de leite integral. 🥛
+- 8 colheres de achocolatado. 🍫
+- 1 colher de maizena. 🥄
 
 ---
 
