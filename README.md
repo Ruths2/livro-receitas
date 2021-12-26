@@ -68,8 +68,6 @@
 
 <a href='#topo'>Voltar ao topo 📃</a>
 
-🚧...projeto em construção...🚧
 </div>
 
-
-
+###### 🚧...projeto em construção...🚧
