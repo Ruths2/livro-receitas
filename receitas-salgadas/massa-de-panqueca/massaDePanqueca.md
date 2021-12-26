@@ -24,5 +24,5 @@
 
 <div align= "center">
    <a href="https://ibb.co/sKbGLL7">
-     <img height= "280" src="https://i.ibb.co/3p4qttK/Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021" border="0" /></a>
+     <img height= "320" src="https://i.ibb.co/3p4qttK/Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Fri-Dec-24-07-15-03-GMT-03-00-2021" border="0" /></a>
 </div>
